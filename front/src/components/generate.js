@@ -10,7 +10,9 @@ import {
   TypingIndicator,
 } from '@chatscope/chat-ui-kit-react';
 //import {useDispatch , useSelector} from "react-redux";
-const API_KEY ="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"
+ // place here your api key of open Ai inside below variable res code is same for no need to change 
+
+const API_KEY =""
 
 const Genrate = () => {
    /*  const userLogin=useSelector((state)=>state.userLogin);
